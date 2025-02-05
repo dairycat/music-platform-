@@ -1,7 +1,7 @@
 # music-platform
 A platform of music which received a software authority
 
-#Start:
+# start
 In the server directory, run: npm install && npm start
 In the client directory, run: npm install && npm start
 
